@@ -7,6 +7,6 @@ All foods not defined (by name and lore) in the Foods list will not be affected 
 
 Command support:
 
-  enable and disable command ingame with /cftoggle
+> enable and disable command ingame with /cftoggle
   
-  get a custom food with /cfgive <name>
+> get a custom food with /cfgive <name>
