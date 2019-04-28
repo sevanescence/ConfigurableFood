@@ -10,3 +10,11 @@ Command support:
 > enable and disable command ingame with /cftoggle
   
 > get a custom food with /cfgive <name>
+
+Potion Effects:
+
+> Any (applicable) custom potion effect on consumption.
+
+Right-Click instant consumption:
+
+> Any item can be assigned to "instant eat", meaning all you have to do to activate its effects is right-click with the item in hand.
