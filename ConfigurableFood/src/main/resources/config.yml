@@ -1,0 +1,13 @@
+debug-mode: true
+enabled: true
+default-saturation: 1
+default-health: 0
+Foods:
+  Chicken_Bread:
+    item-type: BREAD
+    saturation: 10
+    health: 4
+    item-name: "&6Chicken Bread"
+    lore-includes:
+      - "&7A lore line. This can be anywhere!"
+      - "&7This better be included, too!"
